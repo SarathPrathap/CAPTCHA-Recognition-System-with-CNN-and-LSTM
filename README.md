@@ -35,6 +35,3 @@ The proposed system attains a minimum accuracy of 97.8% in the employed datasets
 
 ## Results
 The project achieved a remarkable 99.5% accuracy with just ten thousand examples, highlighting the vulnerability of traditional text captchas to advancements in machine learning and computer vision.
-
-## Conclusion
-This project emphasizes the need for more robust CAPTCHA systems, as traditional methods are susceptible to advancements in machine learning and computer vision. Moving forward, the goal is to develop a precise model capable of effectively handling diverse text-based captchas with varying lengths and image sizes.
